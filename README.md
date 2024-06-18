@@ -7,6 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/gauravtalekar](https://www.linkedin.com/in/gaurav-talekar-45b2aa189/)) 
 
-![Computer Vision Animation](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)  <!-- Replace this link with the link to your animation -->
+![Computer Vision Animation](https://i.gifer.com/GWO3.gif)  <!-- Replace this link with the link to your animation -->
 
 ![Gaurav Talekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauraviisc12&show_icons=true&theme=radical) 
